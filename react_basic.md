@@ -1,6 +1,25 @@
 
 # 一些react的基础笔记
 
+## 体验一下react
+
+```js
+			ReactDOM.render(<h1>Hello React</h1>, document.getElementById('root'));
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
